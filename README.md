@@ -9,8 +9,7 @@ Wings is a Python-based subdomain enumeration tool meticulously crafted to empow
 
 ## Screenshots
 
-![App Screenshot]
-[233616518-d6cd2541-1979-416f-b75a-d9c96aaecb87](https://github.com/sanskar-sudo/Wings/assets/129141264/db115ae5-bd74-4721-b0f0-9639878fe6ea)
+![233616518-d6cd2541-1979-416f-b75a-d9c96aaecb87](https://github.com/sanskar-sudo/Wings/assets/129141264/e4d61a3c-b51b-4a91-965d-8420138dc2b1)
 
 ## Installation
 
