@@ -12,7 +12,7 @@ Wings is a Python-based subdomain enumeration tool meticulously crafted to empow
 
 ## Installation
 
-Install my-project with npm
+
 
 ```bash
   git clone https://github.com/sanskar-sudo/Wings.git
