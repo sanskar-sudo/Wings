@@ -1,14 +1,26 @@
-# Wings
-A tool used for subdomain enumeration.
 
-You can use your one wordlist by copying it to Wings folder, by default it has 5000.txt as a default wordlist.
+# Project Title
 
-Required Modules
+## Wings
+Wings is a Python-based subdomain enumeration tool meticulously crafted to empower cybersecurity enthusiasts and professionals alike. Designed with speed, ease of use, and customizability in mind, Wings simplifies the task of discovering subdomains associated with a target domain, providing valuable insights into potential vulnerabilities and security risks.
 
-import requests import concurrent.futures import colorama import os from termcolor import colored
-# i would like to thank danielmiessler for seclist that i have used as default wordlist.
-![Screenshot_2023-04-21_15-58-22](https://user-images.githubusercontent.com/129141264/233616514-42773809-f92a-4204-9c82-630d43dc6c67.png)
-![Screenshot_2023-04-21_15-59-28](https://user-images.githubusercontent.com/129141264/233616518-d6cd2541-1979-416f-b75a-d9c96aaecb87.png)
+![Logo](https://i.pinimg.com/originals/82/ea/b4/82eab4032609ea2d24e4a83555794b4b.png)
 
 
-#NOTE- USE IT FOR ETHICAL PURPOSE ONLY, THE CREATER WILL NOT BE RESPONSIBLE FOR ANY ACTION TAKEN BY YOU!!!
+## Screenshots
+
+![App Screenshot]([233616518-d6cd2541-1979-416f-b75a-d9c96aaecb87](https://github.com/sanskar-sudo/Wings/assets/129141264/db115ae5-bd74-4721-b0f0-9639878fe6ea))
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  git clone https://github.com/sanskar-sudo/Wings.git
+  cd Wings
+  pip install -r requirements.txt
+  python Wings.py
+
+
+```
+    
